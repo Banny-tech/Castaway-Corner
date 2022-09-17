@@ -1,4 +1,5 @@
-# Castaway-Corner![character 1](https://user-images.githubusercontent.com/65400577/190842474-efdfc614-9876-479f-971b-bbf29549f387.png)
+# Castaway-Corner!
+![character 1](https://user-images.githubusercontent.com/65400577/190842474-efdfc614-9876-479f-971b-bbf29549f387.png)
 ![homepage1](https://user-images.githubusercontent.com/65400577/190842476-19ec924a-4605-4787-b1fd-f6d91ed18311.png)
 ![homepage2](https://user-images.githubusercontent.com/65400577/190842478-98dfe094-afd7-470f-91ef-7cfd13692bd0.png)
 ![homepage3](https://user-images.githubusercontent.com/65400577/190842479-67ec3532-af2e-4867-a001-83fb6de093f4.png)
